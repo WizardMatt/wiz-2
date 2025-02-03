@@ -1,1 +1,3 @@
-# wiz-2
+# Our first repo
+
+Welcome
