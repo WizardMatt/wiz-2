@@ -1,3 +1,3 @@
-# Our first repo
+# My first repo
 
-Welcome
+This repo contains basic python projects
